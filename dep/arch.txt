@@ -11,5 +11,4 @@ xorg-xbacklight
 connman
 curl
 pamixer
-spotifyd
 playerctl
